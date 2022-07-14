@@ -1,3 +1,4 @@
+
 def square(num):
 
     result = num ** 2
@@ -5,3 +6,4 @@ def square(num):
     return result
 
 print(square(10))
+
